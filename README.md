@@ -15,6 +15,9 @@
 * camel case 
 ### Názvy ostatních tříd, metod a proměnných:
 * anglicky
-* pascal case 
+* pascal case
+### Názvy routes:
+* anglicky
+* kebab case
 ##  Assets & Šablony
 - **Složka `assets` a soubory `template` a `layout` jsou malými písmeny**
